@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GraphQL", "GraphQL\GraphQL.pyproj", "{7579A936-907F-4C59-9130-E57E1AB3D63D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7579A936-907F-4C59-9130-E57E1AB3D63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7579A936-907F-4C59-9130-E57E1AB3D63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A61DB59-322E-41D8-8752-19BAF03C89D8}
+	EndGlobalSection
+EndGlobal
